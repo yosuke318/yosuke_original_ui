@@ -5,7 +5,7 @@ services:
     container_name: front
     tty: true
     volumes:
-      - ./components:/data/src
+      - ./storybook:/data/src
     ports:
       - "5173:5173"
       - "6006:6006"

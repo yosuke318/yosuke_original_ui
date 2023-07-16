@@ -35,6 +35,8 @@
     "prop-types": "^15.8.1",
     "storybook": "^7.0.27",
     "typescript": "^5.0.2",
-    "vite": "^4.4.0"
+    "vite": "^4.4.0",
+    "react-native": "^0.72.3",
+    "react-native-calender": "^1.0.1"
   }
 }

@@ -6,7 +6,9 @@
 
 ```docker exec -it front bash```
 
+```npm install```
+
+```npm run build```
+
 ```npm run storybook```
 
-### ライブラリ追加時
-```docker-compose run --rm --service-ports app sh -c "npm install"```
